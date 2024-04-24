@@ -1,0 +1,25 @@
+nav{
+    background-color: blue;
+    border-color: black;
+    padding: 1px;
+    color: #fcfbfb;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 20px;
+    align-items: center;
+}
+#letras{
+    margin-left: 30px;
+    font-size: 25px;
+    font-style: italic;
+}
+#options{
+    
+    width: 400px;
+
+}
+nav ul{
+    display: flex;
+    gap: 25px;
+    list-style: none;
+}
