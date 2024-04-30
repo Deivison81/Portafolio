@@ -1,5 +1,14 @@
 
-
+.cabeza{
+    background-color: blue;
+    
+}
+.titulos{
+    color: white;
+}
+.botones{
+    justify-content: end;
+}
 .card-proyect{
     margin-top: 15px;
     margin-left: 15px;
@@ -15,4 +24,13 @@
 }
 .mate{
     width: 100%;
+}
+
+.decripcion{
+    background-color: rgb(187, 186, 186);
+}
+
+p{
+    color: white;
+    text-align: justify;
 }
